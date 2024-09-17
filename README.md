@@ -16,7 +16,7 @@ Responsive Todo App using React Redux Toolkit
 #### Clone the repository
 
 ```bash
-git clone https://github.com/SatyabratDeveloper/ReactTodoApp.git
+git clone https://github.com/SatyabratDeveloper/TodoAppReduxToolkit.git
 ```
 
 #### Install dependencies
